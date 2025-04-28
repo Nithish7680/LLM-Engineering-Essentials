@@ -55,29 +55,8 @@ Fine-tuning of LLMs and embeddings. Parameter-Efficient Fine-Tuning and LoRA. RL
 
 ## 🏗️ NPC Factory Project
 
-During the course, you'll build a platform that serves intelligent, believable, reactive, and autonomous NPCs — non-player characters at the heart of immersive games, driving engaging interactions and making worlds feel rich and dynamic.
-
 - Deploy models on real servers and integrate them into game environments.
 - Implement agentic capabilities, enabling NPCs to set goals and adapt dynamically.
 - Build scalable APIs to support complex game interactions.
 - Optimize performance, monitor behavior, and fine-tune models for smooth, responsive gameplay.
 
-## 💬 Join the community
-
-Connect with experts, engage in discussions, ask questions, and share insights, experiences, and feedback with fellow learners on Discord. Stay in the loop — live session announcements will be posted there, too!
-
-For updates, you can also subscribe to our newsletter.
-
-## 👨‍🏫 Meet our team
-
-Led by AI expert **Stanislav Fedotov**, this course was created by a team of AI practitioners dedicated to making AI education accessible and keeping professionals ahead in the field:
-
-**Alexey Bukhtiyarov**
-
-**Nikita Pavlichenko**
-
-**Sergei Petrov**
-
-**Sergei Skvortsov**
-
-**Alex Umnov**
