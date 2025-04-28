@@ -1,10 +1,5 @@
 # LLM Engineering Essentials course by Nebius Academy
-
-**🗣️ Starting May 7, join weekly expert-led Q&A sessions to ask questions and get feedback from course lecturers and mentors.**
-
-**🎓 Sign up for the intro session — it’s happening on May 7 at 7 PM CET:**
-
-**👉 [Join the welcome session](https://nebius.zoom.us/webinar/register/2017452395379/WN_fRQs-XofSzivwkNQUfGxBA)**
+Credits : https://github.com/Nebius-Academy/LLM-Engineering-Essentials?tab=readme-ov-file
 
 ## 📌 Quick start
 
